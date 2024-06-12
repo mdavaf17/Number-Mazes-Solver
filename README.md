@@ -1,1 +1,1 @@
-# Boggle-Solver
+# Number-Maze-Solver
